@@ -2,7 +2,7 @@
 
 <h2>💻 Sobre o projeto </h2>
 
-<p>Uns dos primeiro projeto que fiz na área,programação do zero no youtube aonde aprende muitas coisa e na pratica.</p>
+<p>Uns dos primeiro projeto que fiz na área, Missão programação do zero no youtube aonde aprende muitas coisa e na pratica.</p>
 
 <h2>📸 Demostração </h2>
 
